@@ -10,7 +10,7 @@ With each transaction there is a 10% transaction fee. Half(%5) of the transactio
 
 &nbsp;
 
-# ![Game Details](/static/img/rolling-dices.svg) Casino
+# Casino
 How does the casino work? First you need to swap BNB for $SLAM tokens on PancakeSwap. Once you have $SLAM tokens in your Metamask wallet you then need to visit our website and click ‘Play’. On the right hand of the screen you will see the connect button which you will use to connect your Metamask account to be able to instantly play in the casino. Your $SLAM tokens will automatically show up under your account meaning you are ready to roll.
 
 Negative house edge is a feature which you haven’t seen anywhere else before. It puts the odds in your favor by giving you clear mathematical advantage over the house. To put in numbers, a roulette table at a regular casino will have a 5.26% house edge over you. So it’s not really 50/50 as it is portrayed. Another example from the crypto world would be the more moderate 1-2% house edge for the bitcoin crash games. $SLAM clearly stands out with its unique algorithm that makes it easier for you to win. 
@@ -21,7 +21,7 @@ We have been working for a long time to get ready to launch $SLAM token and our 
 &nbsp;
 
 
-# ![Tokenomics](/static/img/pie-chart.svg) Tokenomics
+# Tokenomics
 Please see our contract source code for detailed information.
 
 - **Total Supply:** 1.000.000.000.000 (1T) 
@@ -76,7 +76,7 @@ We will continuously maintain and improve the platform to deliver a fun gambling
 &nbsp;
 
 
-# ![Team](/static/img/light-helm.svg) Team
+# Team
 
 We are a professional team of 4 running the show behind the scenes.
 
